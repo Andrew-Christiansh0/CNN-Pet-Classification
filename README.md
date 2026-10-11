@@ -21,7 +21,7 @@ Eksperimen dilakukan dengan pembagian dataset 70:15:15 (*Stratified Split*) dan 
 
 ## 📈 Grafik Komparatif Loss
 
-![Loss Curves](outputs/loss_curves_comparison.png)
+![Loss Curves](loss_curves_comparison.png)
 
 * **B1 (Scratch)**: Konvergensi lambat karena melatih seluruh bobot dari awal pada dataset skala kecil.
 * **B2 & B3 (Pretrained)**: Konvergensi jauh lebih cepat berkat ektraksi fitur *pretrained* ImageNet.
@@ -31,7 +31,7 @@ Eksperimen dilakukan dengan pembagian dataset 70:15:15 (*Stratified Split*) dan 
 
 ## 🔍 Failure Analysis
 
-![Failure Analysis](outputs/failure_analysis.jpg)
+![Failure Analysis](failure_analysis.jpg)
 
 Analisis sampel misklasifikasi menunjukkan kesalahan dominan dipicu oleh:
 1. **High Inter-class Similarity**: Kemiripan fisik antar-ras (misal: *American Bulldog* vs *Boxer* / *Pit Bull*).
