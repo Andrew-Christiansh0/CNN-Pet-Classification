@@ -38,11 +38,4 @@ Analisis sampel misklasifikasi menunjukkan kesalahan dominan dipicu oleh:
 2. **Oklusi & Sudut Ekstrem**: Objek terpotong tiang atau diambil dari sudut *high-angle*.
 3. **Pencahayaan Ekstrem**: Perubahan persepsi warna bulu akibat pencahayaan latar belakang.
 
----
 
-## 🛠️ Cara Menjalankan Kode
-
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/USERNAME/REPO_NAME.git](https://github.com/USERNAME/REPO_NAME.git)
-   cd REPO_NAME
