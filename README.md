@@ -31,7 +31,7 @@ Eksperimen dilakukan dengan pembagian dataset 70:15:15 (*Stratified Split*) dan 
 
 ## 🔍 Failure Analysis
 
-![Failure Analysis](failure_analysis.jpg)
+![Failure Analysis](failure_analysis.png)
 
 Analisis sampel misklasifikasi menunjukkan kesalahan dominan dipicu oleh:
 1. **High Inter-class Similarity**: Kemiripan fisik antar-ras (misal: *American Bulldog* vs *Boxer* / *Pit Bull*).
